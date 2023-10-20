@@ -8,3 +8,14 @@ html,body{
   color: #fff;
   font-family: 'Playpen Sans', 'Work Sans', sans-serif;  
 }
+
+.nav-link {
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
