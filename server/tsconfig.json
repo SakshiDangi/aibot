@@ -7,5 +7,6 @@
       "outDir": "dist",
       "allowSyntheticDefaultImports": true
     },
+    "exclude": ["client", "node_modules", "public"],
     "include": ["src/**/*.ts", "src/index.ts"]
   }
