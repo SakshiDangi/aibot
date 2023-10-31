@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sveltejs/adapter-vercel": "^3.0.3",
     "bcrypt": "^5.1.0",
     "concurrently": "^8.2.0",
     "cookie-parser": "^1.4.6",
