@@ -8,7 +8,7 @@ config();
 const app = express();
 
 //middlewares
-app.use(cors({ origin: "https://aibot-weld.vercel.app", methods: ["POST", "GET"], credentials: true }));
+app.use(cors({ origin: "https://aibot-cj7k.vercel.app/", methods: ["POST", "GET"], credentials: true }));
 app.use(express.json());
 app.use(cookieParser(process.env.COOKIE_SECRET));
 
